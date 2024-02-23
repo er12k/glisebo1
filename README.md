@@ -38,10 +38,6 @@
 7. Mecanismo de recuperação em caso de desastres; 
 8. Segurança no cadastramento de cartão e na hora de pagar;
 9. Escalabilidade eficiente; 
-<<<<<<< HEAD
 10. Compatibilidade para diferentes tipos de navegadores;
 11. Chat privado para conversar;
-12. Campo para avaliações.
-=======
-10. Compatibilidade para diferentes tipos de navegadores.
->>>>>>> b09fbab2507405c187fcb57f633be315e3b23467
+12. Campo para avaliações;
