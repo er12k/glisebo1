@@ -6,16 +6,27 @@
 3. Traça livraria e sebo;
 
 #### Lista de requisitos funcionais:
-1. Visualizar Livros;
-2. Realizar cadastro/login;
-3. Comprar livros usados;
-4. Trocar livros usados;
-5. Adicionar livro no carrinho;
-6. Favoritar livro;
-7. Pesquisar livro;
-8. Visualizar detalhes do livro;
-9. Deixar avaliações;
-10. Receber suporte.
+1. Visualizar Livros (cliente);
+2. Realizar cadastro/login (cliente);
+3. Comprar livros usados (cliente);
+4. Trocar livros usados (cliente);
+5. Adicionar livro no carrinho (cliente);
+6. Favoritar livro (cliente);
+7. Pesquisar livro (cliente);
+8. Listar livro (cliente);
+9. Visualizar detalhes do livro (cliente);
+10. Deixar avaliações (cliente);
+11. Receber suporte (admin);
+12. Adicionar cartão (cliente);
+13. Editar cartão (cliente);
+14. Excluir cartão (cliente);
+15. Conversar com possível trocador (cliente);
+16. Negociar trocas (cliente);
+17. Adicionar livro no site (admin);
+18. Editar livro no site (admin);
+18. Excluir livro no site (admin);
+19. Salvar informações de login (admin);
+20. Salvar informações de pagamento (admin).
 
 #### Não funcionais:
 1. Privacidade do usuário;
@@ -27,4 +38,6 @@
 7. Mecanismo de recuperação emn caso de desastres; 
 8. Segurança no cadastramento de cartão e na hora de pagar;
 9. Escalabilidade eficiente; 
-10. Compatibilidade para diferentes tipos de navegadores.
+10. Compatibilidade para diferentes tipos de navegadores;
+11. Chat privado para conversar;
+12. Campo para avaliações.
