@@ -11,7 +11,7 @@
 3. Comprar livros usados;
 4. Trocar livros;
 5. Adicionar livro no carrinho;
-6. Favoritar livro.
+6. Favoritar livro;
 
 #### Não funcionais:
 1. Privacidade do usuário;
@@ -20,7 +20,7 @@
 4. Site fácil de usar;
 5. Pesquisa de livros rápida;
 6. Disponibilidade 24 horas;
-7. Mecanismo de rtecuperação emn caso de desastres; 
+7. Mecanismo de recuperação emn caso de desastres; 
 8. Segurança no cadastramento de cartão e na hora de pagar;
 9. Escalabilidade eficiente; 
-10. Compatibilidade para dioferentes tipos de navegadores.
+10. Compatibilidade para diferentes tipos de navegadores.
