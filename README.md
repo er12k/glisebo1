@@ -40,4 +40,4 @@
 9. Escalabilidade eficiente; 
 10. Compatibilidade para diferentes tipos de navegadores;
 11. Chat privado para conversar;
-12. Campo para avaliações;
+12. Campo para avaliações.
