@@ -1,3 +1,4 @@
+# GLISEBO
 ### O Glisebo tem como objetivo ajudar a democratizar o acesso à leitura através de vendas e troca de livros, tendo em vista que a elitização da literatura no mundo atual está cada vez maior, pois estes tentam privatizar os livros para que seja um artefato de luxo. Queremos repudiar essa situação e levar através de livros usados o direito das pessoas de terem a oportunidade de se tornar um leitor ativo, queremos resolver o problema do encarecimento dos livros e disponibilizar obras mais baratas para as pessoas que não tem tantas condições, queremos levar a leitura para todas as classes de forma barata e fácil.
 
 #### Temos como ponto de referência os sites:
