@@ -9,9 +9,13 @@
 1. Visualizar Livros;
 2. Realizar cadastro/login;
 3. Comprar livros usados;
-4. Trocar livros;
+4. Trocar livros usados;
 5. Adicionar livro no carrinho;
 6. Favoritar livro;
+7. Pesquisar livro;
+8. Visualizar detalhes do livro;
+9. Deixar avaliações;
+10. Receber suporte.
 
 #### Não funcionais:
 1. Privacidade do usuário;
