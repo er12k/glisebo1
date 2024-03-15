@@ -8,37 +8,37 @@
 
 #### Lista de requisitos funcionais:
 1. Visualizar Livros (cliente);
-2. Realizar cadastro/login (cliente);
-3. Comprar livros usados (cliente);
-4. Trocar livros usados (cliente);
-5. Adicionar livro no carrinho (cliente);
-6. Favoritar livro (cliente);
-7. Pesquisar livro (cliente);
-8. Listar livro (cliente);
-9. Visualizar detalhes do livro (cliente);
-10. Deixar avaliações (cliente);
-11. Receber suporte (admin);
-12. Adicionar cartão (cliente);
-13. Editar cartão (cliente);
-14. Excluir cartão (cliente);
-15. Conversar com possível trocador (cliente);
-16. Negociar trocas (cliente);
-17. Adicionar livro no site (admin);
-18. Editar livro no site (admin);
-18. Excluir livro no site (admin);
-19. Salvar informações de login (admin);
-20. Salvar informações de pagamento (admin).
+2. Realizar cadastro (cliente);
+3. Realizar login (cliente);
+4. Comprar livros usados (cliente);
+5. Trocar livros usados (cliente);
+6. Adicionar livro no carrinho (cliente);
+7. Favoritar livro (cliente);
+8. Pesquisar livro (cliente);
+9. Listar livro (cliente);
+10. Visualizar detalhes do livro (cliente);
+11. Deixar avaliações (cliente);
+12. Receber suporte (admin);
+13. Adicionar cartão (cliente);
+14. Editar cartão (cliente);
+15. Excluir cartão (cliente);
+16. Conversar com possível trocador (cliente e trocador);
+17. Negociar trocas (cliente e trocador);
+18. Adicionar livro no site (admin e trocador);
+19. Editar livro no site (admin e trocador);
+20. Excluir livro no site (admin e trocador);
+21. Salvar informações de login (admin e cliente);
+22. Salvar informações de pagamento (admin e cliente);
+23. Contatar administrador.
 
 #### Não funcionais:
 1. Privacidade do usuário;
 2. Conformidade com a legislação;
-3. Suporte ao comprador;
-4. Site fácil de usar;
-5. Pesquisa de livros rápida;
-6. Disponibilidade 24 horas;
-7. Mecanismo de recuperação em caso de desastres; 
-8. Segurança no cadastramento de cartão e na hora de pagar;
-9. Escalabilidade eficiente; 
-10. Compatibilidade para diferentes tipos de navegadores;
-11. Chat privado para conversar;
-12. Campo para avaliações.
+3. Site fácil de usar;
+4. Pesquisa de livros rápida;
+5. Disponibilidade 24 horas;
+6. Mecanismo de recuperação em caso de desastres; 
+7. Segurança;
+8. Escalabilidade eficiente; 
+9. Compatibilidade para diferentes tipos de navegadores;
+10. Chat privado para conversar;
