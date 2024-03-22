@@ -14,3 +14,25 @@ label {
     color: rgb(7, 0, 0);
     font-family: 'Courier New', Courier, monospace;
 }
+
+
+body{
+    background-color:rgb(253, 183, 208);
+    font-family: 'Courier New',Courie, monospace;
+    text-align:justify;
+    margin:7px 44px;
+    padding:15px 7px
+}
+
+h1 {
+    color: rgb(247, 24, 147);
+    font-family:'Times New Roman', Times, serif;
+}
+
+.button {
+    background-color: #fa509d;
+    color: white;
+    padding: 10px 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
