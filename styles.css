@@ -1,0 +1,16 @@
+h1 {
+    color: #9c099c;
+}
+body {
+    background-color: #fce1ed;
+}
+button {
+    background-color: #9c099c;
+    color: white;
+    padding: 10px 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+label {
+    color: rgb(7, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
